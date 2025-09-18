@@ -22,6 +22,20 @@
 
 ---
 
+
+✌𝗪𝗵𝘆 𝗖𝗵𝗼𝗼𝘀𝗲 𝗠𝗲?✌
+
+➤ 𝗠𝘂𝗹𝘁𝗶-𝗖𝗹𝗼𝘂𝗱 𝗣𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: Extensive experience with AWS, Azure, and GCP, ensuring optimal cloud solutions for your project.
+
+➤ 𝗗𝗲𝘃𝗢𝗽𝘀 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲: Proven success in implementing CI/CD pipelines, containerization, and orchestration.
+
+➤ 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 & 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: Skilled in automating infrastructure provisioning and management, enhancing efficiency and reducing manual tasks.
+
+➤ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 & 𝗖𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲: Dedicated to applying security best practices to protect your data and applications.
+
+➤ 𝗖𝗹𝗶𝗲𝗻𝘁-𝗖𝗲𝗻𝘁𝗿𝗶𝗰 𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵: Focused on understanding your needs and delivering solutions that drive business success.
+
+
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytro0904&show_icons=true&theme=radical)
