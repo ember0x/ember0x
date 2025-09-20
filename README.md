@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytro0904&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ember-dev&show_icons=true&theme=radical)
 
 ---
 
